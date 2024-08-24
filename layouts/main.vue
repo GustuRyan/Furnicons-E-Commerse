@@ -14,7 +14,6 @@
                 </template>
             </IconFooter>
         </div>
-        <img src="/public/" alt="">
         <Footer />
     </div>
 </template>
