@@ -1,7 +1,7 @@
 <template>
     <div class="relative w-full h-screen flex items-center">
         <div class="w-full flex justify-end px-16 z-10">
-            <article class="p-16 bg-[#FFF3E3] rounded-md">
+            <article class="p-16 bg-[#FFF3E3] rounded-md shadow-lg">
                 <div class="flex flex-col gap-12 z-20">
                     <div class="flex flex-col gap-4">
                         <h4 class="font-semibold tracking-wider">
@@ -28,5 +28,4 @@
 </template>
 
 <script lang="ts">
-
 </script>

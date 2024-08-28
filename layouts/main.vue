@@ -11,6 +11,7 @@
                 </template>
                 <template #description>
                     {{ icon.desc }}
+                    <img :src="icon.link" alt="">
                 </template>
             </IconFooter>
         </div>

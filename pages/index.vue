@@ -4,6 +4,9 @@
         <section class="mt-24">
             <HomepageHero/>
         </section>
+        <section>
+            <HomepageBrowse/>
+        </section>
       </Main>
     </div>
   </template>
