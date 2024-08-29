@@ -1,5 +1,5 @@
 <template>
-    <div class="font-poppins">
+    <div class="font-poppins min-w-screen">
       <Main>
         <section class="mt-24">
             <HomepageHero/>

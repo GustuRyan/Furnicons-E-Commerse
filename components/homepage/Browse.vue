@@ -1,5 +1,5 @@
 <template>
-    <div class="h-full w-screen flex flex-col gap-12 px-20 py-28">
+    <div class="h-full w-full flex flex-col gap-12 px-8 sm:px-16 lg:px-20 py-28">
         <div class="flex flex-col text-center gap-2">
             <h1 class="font-bold text-2xl">
                 Browse The Range
@@ -8,29 +8,21 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>            
         </div>
-        <div class="grid grid-cols-3 gap-x-16">
-            <div class="flex flex-col gap-7 text-center p-4 hover:bg-neutral-100 rounded-lg">
-                <img src="/public/dining-browse-image.png" class="rounded-lg w-full h-[480px] object-left" alt="">
-                <span class="font-bold text-xl">
-                    Dining
-                </span>
-            </div>
-            <div class="flex flex-col gap-7 text-center p-4 hover:bg-neutral-100 rounded-lg">
-                <img src="/public/bedroom-browse-image.png" class="rounded-lg w-full h-[480px] object-right" alt="">
-                <span class="font-bold text-xl">
-                    Living
-                </span>
-            </div>
-            <div class="flex flex-col gap-7 text-center p-4 hover:bg-neutral-100 rounded-lg">
-                <img src="/public/living-browse-image.png" class="rounded-lg w-full h-[480px] object-left" alt="">
-                <span class="font-bold text-xl">
-                    Bedroom
+        <div class="flex flex-col gap-12 lg:flex-row lg:justify-between">
+            <div v-for="browse in browses" class="group flex flex-col gap-4 sm:gap-7 text-center hover:scale-105 hover:bg-sec_light rounded-lg hover:pb-4 sm:hover:pb-7 transition-all">
+                <img :src="browse.image" class="rounded-lg w-full h-fit lg:h-[480px] object-cover object-left transition-all" alt="">
+                <span class="font-bold text-2xl sm:text-3xl lg:text-xl transition-all group-hover:text-3xl sm:group-hover:text-4xl lg:group-hover:text-2xl">
+                    {{ browse.title }}
                 </span>
             </div>
         </div>
     </div>
 </template>
 
-<script lang="ts">
-
+<script setup lang="ts">
+const browses = ref([
+    { title: 'Dining', image: '/dining-browse-image.png' },
+    { title: 'living', image: '/living-browse-image.png' },
+    { title: 'Bedroom', image: '/bedroom-browse-image.png'},
+])
 </script>

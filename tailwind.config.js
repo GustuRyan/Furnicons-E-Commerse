@@ -14,6 +14,11 @@ export default {
         'montserrat': ['Montserrat', 'sans-serif'],
         'poppins': ['Poppins', 'sans-serif'],
       },
+      colors: {
+        primary: '#B88E2F',
+        secondary: '#FFF3E3',
+        sec_light: '#FFFBF6',
+      },
     },
   },
   plugins: [],

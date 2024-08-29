@@ -1,21 +1,21 @@
 <template>
-    <footer class="w-full h-full px-20 py-12 flex flex-col gap-8">
-        <div class="flex justify-between mb-4">
-            <div class="flex flex-col gap-16">
+    <footer class="w-full h-full px-12 md:px-20 py-12 flex flex-col gap-8">
+        <div class="flex flex-col gap-12 lg:gap-10 lg:flex-row justify-between mb-4">
+            <div class="flex flex-col gap-8 md:gap-16">
                 <h2 class="font-bold text-xl">
                     Furnicons.
                 </h2>
-                <p class="w-[264px] text-[#9F9F9F]">
+                <p class="max-w-[264px] text-[#9F9F9F]">
                     400 University Drive Suite 200 Coral Gables,
                     FL 33134 USA
                 </p>
             </div>
-            <div class="flex gap-24 mr-20">
-                <div class="flex flex-col gap-16">
+            <div class="flex flex-col md:flex-row gap-10 md:gap-24">
+                <div class="flex flex-col gap-8 md:gap-16">
                     <h2 class="text-[#9F9F9F]">
                         Links
                     </h2>
-                    <ul class="flex flex-col font-bold gap-10">
+                    <ul class="flex flex-col font-bold gap-3 md:gap-10">
                         <NuxtLink :to="'/'" class="hover:text-slate-600">
                             Home
                         </NuxtLink>
@@ -30,11 +30,11 @@
                         </NuxtLink>
                     </ul>
                 </div>
-                <div class="flex flex-col gap-16">
+                <div class="flex flex-col gap-8 md:gap-16">
                     <h2 class="text-[#9F9F9F]">
-                        Links
+                        Help
                     </h2>
-                    <ul class="flex flex-col font-bold gap-10">
+                    <ul class="flex flex-col font-bold gap-3 md:gap-10">
                         <NuxtLink :to="'/'" class="hover:text-slate-600">
                             Payment Options
                         </NuxtLink>
@@ -46,13 +46,13 @@
                         </NuxtLink>
                     </ul>
                 </div>
-                <div class="flex flex-col gap-16">
+                <div class="flex flex-col gap-8 md:gap-16 pr-4">
                     <h2 class="text-[#9F9F9F]">
                         Newsletter
                     </h2>
-                    <div class="flex gap-3">
+                    <div class="flex flex-col lg:flex-row gap-3">
                         <input type="text" class="border-b-2 border-black py-2" placeholder="Enter Your Email Address">
-                        <button class="flex flex-col gap-2 border-b-2 border-black hover:border-b-4 hover:border-[#B88E2F] group">
+                        <button class="group flex flex-col gap-2 border-b-2 border-black w-fit hover:border-b-4 hover:border-[#B88E2F] p-2 lg:p-0">
                             <span class="font-bold mt-2 transition ease-in-out group-hover:text-[#B88E2F] group-hover:-translate-y-1">
                                 SUBSCRIBE
                             </span>
@@ -67,3 +67,6 @@
         </h4>
     </footer>
 </template>
+
+<script setup lang="ts">
+</script>
