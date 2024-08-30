@@ -1,7 +1,7 @@
 <template>
     <div class="relative w-full h-screen flex items-center">
         <div class="w-full flex justify-center md:justify-end px-0 md:px-16 z-10">
-            <article class="p-8 sm:p-16 bg-secondary rounded-md shadow-lg transition-all scale-[.85] w-full md:w-fit md:scale-100 hover:scale-90 md:hover:scale-105">
+            <article class="p-8 md:p-16 bg-secondary rounded-md shadow-lg transition-all scale-[.85] w-full md:w-fit md:scale-100 hover:scale-90 md:hover:scale-105">
                 <div class="flex flex-col gap-12 z-20">
                     <div class="flex flex-col gap-4">
                         <h4 class="font-semibold tracking-wider">
@@ -16,7 +16,7 @@
                     </div>
                     <button class="group flex justify-center hover:justify-between items-center px-8 py-6 bg-primary w-52 font-bold text-white transition-all ease-in-out delay-300 hover:w-full hover:text-xl hover:opacity-90">
                         BUY NOW
-                        <div class="hidden group-hover:block group-hover:translate-x-4">
+                        <div class="hidden group-hover:block">
                             <ArrowRightIcon class="size-9"/>
                         </div>
                     </button>

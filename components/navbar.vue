@@ -1,5 +1,5 @@
 <template>
-    <div class="fixed top-0 w-full h-24 flex justify-between items-center px-8 md:px-20 bg-white shadow-sm z-20 transition-all">
+    <div class="fixed top-0 w-full h-24 flex justify-between items-center px-8 md:px-16 lg:px-20 bg-white shadow-sm z-20 transition-all">
         <NuxtLink :to="'/'" class="flex gap-2 items-center">
             <img src="/public/logo-furnicons-gold.png" alt="" class="w-14">
             <span class="hidden lg:block font-black text-2xl font-montserrat">

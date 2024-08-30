@@ -10,6 +10,9 @@
       <section>
         <HomepageOurProduct />
       </section>
+      <section>
+        <HomepageSlider />
+      </section>
     </Main>
   </div>
 </template>

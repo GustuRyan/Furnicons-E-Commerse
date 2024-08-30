@@ -1,5 +1,5 @@
 <template>
-    <div class="h-full w-full flex flex-col items-center gap-12 px-8 sm:px-16 lg:px-20 py-14">
+    <div class="h-full w-full flex flex-col items-center gap-12 px-8 md:px-16 lg:px-20 py-14">
         <h1 class="text-2xl font-bold">
             Our Products
         </h1>
@@ -13,9 +13,11 @@
             <HomepageOurProductCard />
             <HomepageOurProductCard />
         </div>
-        <button class="border-2 border-primary px-20 py-4 text-xl text-primary hover:text-white hover:bg-primary transition-colors duration-300 ease-in">
-            Show More
-        </button>
+        <div class="max-w-80">
+            <ButtonPrimary :color="'text-primary'">
+                Show More
+            </ButtonPrimary>
+        </div>
     </div>
 </template>
 
