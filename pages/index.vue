@@ -13,6 +13,9 @@
       <section>
         <HomepageSlider />
       </section>
+      <section>
+        <HomepageGallery />
+      </section>
     </Main>
   </div>
 </template>
