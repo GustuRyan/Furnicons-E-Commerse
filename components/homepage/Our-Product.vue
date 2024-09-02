@@ -4,14 +4,14 @@
             Our Products
         </h1>
         <div class="w-full grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
-            <HomepageOurProductCard />
+            <OurProductCard />
+            <OurProductCard />
+            <OurProductCard />
+            <OurProductCard />
+            <OurProductCard />
+            <OurProductCard />
+            <OurProductCard />
+            <OurProductCard />
         </div>
         <div class="max-w-80">
             <ButtonPrimary :color="'text-primary'">

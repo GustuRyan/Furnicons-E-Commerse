@@ -4,7 +4,7 @@
         <main class="min-h-screen">
             <slot />
         </main>
-        <div class="w-full py-28 px-8 bg-secondary flex flex-col items-center gap-20 lg:flex-row lg:justify-between">
+        <div class="w-full py-28 px-8 bg-secondary flex flex-col items-center gap-20 lg:gap-4 lg:flex-row lg:justify-between">
             <IconFooter v-for="icon in icons" :icon_img="icon.link">
                 <template #header>
                     {{ icon.header }}

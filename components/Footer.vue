@@ -1,5 +1,5 @@
 <template>
-    <footer class="w-full h-full px-12 md:px-20 py-12 flex flex-col gap-8">
+    <footer class="w-full h-full px-12 md:px-20 py-12 flex flex-col gap-8 border-t-2 border-[#D9D9D9]">
         <div class="flex flex-col gap-12 lg:gap-10 lg:flex-row justify-between mb-4">
             <div class="flex flex-col gap-8 md:gap-16">
                 <h2 class="font-bold text-xl">

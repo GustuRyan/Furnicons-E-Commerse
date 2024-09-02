@@ -19,6 +19,9 @@ export default {
         secondary: '#FFF3E3',
         sec_light: '#FFFBF6',
       },
+      animation: {
+        'spin-slow': 'spin 10s linear infinite',
+      },
     },
   },
   plugins: [],
