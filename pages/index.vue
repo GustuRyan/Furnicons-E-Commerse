@@ -1,5 +1,4 @@
 <template>
-  <div class="font-poppins min-w-screen">
     <NoIconFooter>
       <section class="mt-24">
         <HomepageHero />
@@ -17,7 +16,6 @@
         <HomepageGallery />
       </section>
     </NoIconFooter>
-  </div>
 </template>
 
 <script setup lang="ts">

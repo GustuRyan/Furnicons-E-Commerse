@@ -13,6 +13,9 @@ export default {
       fontFamily: {
         'montserrat': ['Montserrat', 'sans-serif'],
         'poppins': ['Poppins', 'sans-serif'],
+        sans: ['Poppins', 'sans-serif'],
+        display: ['Poppins', 'sans-serif'],
+        body: ['Poppins', 'sans-serif'],
       },
       colors: {
         primary: '#B88E2F',
@@ -21,6 +24,9 @@ export default {
       },
       animation: {
         'spin-slow': 'spin 10s linear infinite',
+      },
+      backgroundImage: {
+        'hero-image': "linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('/public/hero-image.png')",
       },
     },
   },
