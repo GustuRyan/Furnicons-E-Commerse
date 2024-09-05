@@ -7,7 +7,7 @@
             Shop
         </template>
     </HeroImage>
-    <div class="bg-secondary w-full px-8 md:px-16 lg:px-20 py-8 flex justify-between">
+    <div data-aos="fade-down" class="bg-secondary w-full px-8 md:px-16 lg:px-20 py-8 flex justify-between">
         <div class="flex gap-8 font-medium text-lg">
             <div class="flex items-center gap-4">
                 <AdjustmentsHorizontalIcon class="size-9"/>
