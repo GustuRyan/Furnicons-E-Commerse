@@ -1,8 +1,8 @@
 <template>
-    <div class="w-full h-[316px] bg-hero-image image-cover flex flex-col justify-center items-center gap-6">
+    <div data-aos="fade-down" class="w-full h-[316px] bg-hero-image bg-cover image-cover flex flex-col justify-center items-center gap-6">
         <img src="/public/logo-furnicons-gold.png" alt="" class="w-16">
         <div class="flex flex-col gap-3">
-            <h1 class="text-5xl font-bold">
+            <h1 class="text-[40px] sm:text-5xl leading-[44px] font-bold text-center px-8">
                 <slot name="header"></slot>
             </h1>
             <p class="text-center flex justify-center">

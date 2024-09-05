@@ -1,5 +1,5 @@
 <template>
-    <div class="relative flex flex-col w-full h-fit transition-all delay-[50ms] hover:scale-105 group/card">
+    <div data-aos="zoom-in" data-aos-duration="500" class="relative flex flex-col w-full h-fit transition-all delay-[50ms] hover:scale-105 group/card">
         <div class="absolute w-full flex justify-end p-4">
             <div class="flex justify-center items-center rounded-full w-12 h-12 bg-[#E97171] text-white">
                 30%

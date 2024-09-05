@@ -27,6 +27,7 @@ export default {
       },
       backgroundImage: {
         'hero-image': "linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('/public/hero-image.png')",
+        'home-hero' : "url('/public/home-hero-background.png')"
       },
     },
   },
