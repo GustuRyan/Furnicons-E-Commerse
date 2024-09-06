@@ -20,19 +20,19 @@
                 '--swiper-pagination-color': '#B88E2F',
                 }" :modules="modules" :breakpoints="breakpoints" :space-between="24" navigation
                 :pagination="{ clickable: true }" class="h-full w-full">
-                <swiper-slide class="relative">
+                <swiper-slide data-aos="zoom-in" class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide class="relative">
+                <swiper-slide data-aos="zoom-in" class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide class="relative">
+                <swiper-slide data-aos="zoom-in" class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide class="relative">
+                <swiper-slide data-aos="zoom-in" class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide class="relative">
+                <swiper-slide data-aos="zoom-in" class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
             </swiper>

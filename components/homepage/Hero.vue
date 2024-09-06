@@ -1,7 +1,7 @@
 <template>
-    <div class="relative w-full h-screen flex items-center">
+    <div class="relative w-full h-full flex items-center bg-home-hero bg-center object-center py-24">
         <div class="w-full flex justify-center md:justify-end px-0 md:px-16 z-10">
-            <article class="p-8 md:p-16 bg-secondary rounded-md shadow-lg transition-all scale-[.85] w-full md:w-fit md:scale-100 hover:scale-90 md:hover:scale-105">
+            <article class="p-8 md:p-16 bg-secondary rounded-md shadow-lg transition-all scale-[.85] w-full md:w-fit md:scale-100 hover:scale-90 md:hover:scale-105" data-aos="fade-left" data-aos-duration="700">
                 <div class="flex flex-col gap-12 z-20">
                     <div class="flex flex-col gap-4">
                         <h4 class="font-semibold tracking-wider">
@@ -23,14 +23,9 @@
                 </div>
             </article>
         </div>
-
-        <div class="absolute w-full h-screen top-0 z-0">
-            <img src="/public/home-hero-background.png" alt="homepage-hero-image" class="h-screen w-screen object-cover lg:object-fill">
-        </div>
     </div>
 </template>
 
 <script setup lang="ts">
 import { ArrowRightIcon } from '@heroicons/vue/24/outline';
-
 </script>
