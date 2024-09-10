@@ -8,8 +8,8 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>            
         </div>
-        <div class="flex flex-col gap-12 lg:flex-row lg:justify-between">
-            <div v-for="browse in browses" data-aos="fade-up" data-aos-duration="1500" class="group flex flex-col gap-4 sm:gap-7 text-center hover:scale-105 hover:bg-sec_light rounded-lg hover:pb-4 sm:hover:pb-7 transition-all">
+        <div class="flex flex-col gap-12 lg:flex-row lg:justify-between" data-aos="fade-up" data-aos-duration="1500" >
+            <div v-for="browse in browses" class="group flex flex-col gap-4 sm:gap-7 text-center hover:scale-105 hover:bg-sec_light rounded-lg hover:pb-4 sm:hover:pb-7 transition-all">
                 <img :src="browse.image" class="rounded-lg w-full h-fit lg:h-[480px] object-cover object-left transition-all" alt="">
                 <span class="font-bold text-2xl sm:text-3xl lg:text-xl transition-all group-hover:text-3xl sm:group-hover:text-4xl lg:group-hover:text-2xl">
                     {{ browse.title }}
