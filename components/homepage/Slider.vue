@@ -1,6 +1,6 @@
 <template>
     <div class="w-full h-full flex flex-col-reverse md:flex-row justify-between bg-secondary py-12 gap-10">
-        <div class="flex flex-col justify-center gap-2 max-w-[480px] px-8 md:pl-10 md:pr-0 lg:pl-24">
+        <div class="flex flex-col justify-center gap-2 max-w-[480px] px-8 md:pl-10 md:pr-0 lg:pl-24" data-aos="fade-in" data-aos-duration="1000">
             <h1 class="text-[40px] font-bold leading-[52px]">
                 50+ Beautiful rooms
                 inspiration
@@ -14,25 +14,25 @@
                 </ButtonPrimary>
             </div>
         </div>
-        <div class="w-full md:w-[60%] h-[582px]">
+        <div class="w-full md:w-[60%] h-[582px]" data-aos="fade-left" data-aos-duration="1000">
             <swiper :style="{
                 '--swiper-navigation-color': '#B88E2F',
                 '--swiper-pagination-color': '#B88E2F',
                 }" :modules="modules" :breakpoints="breakpoints" :space-between="24" navigation
                 :pagination="{ clickable: true }" class="h-full w-full">
-                <swiper-slide data-aos="zoom-in" class="relative">
+                <swiper-slide class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide data-aos="zoom-in" class="relative">
+                <swiper-slide class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide data-aos="zoom-in" class="relative">
+                <swiper-slide class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide data-aos="zoom-in" class="relative">
+                <swiper-slide class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
-                <swiper-slide data-aos="zoom-in" class="relative">
+                <swiper-slide class="relative">
                     <HomepageSliderCard />
                 </swiper-slide>
             </swiper>
