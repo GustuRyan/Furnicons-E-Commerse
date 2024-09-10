@@ -3,7 +3,7 @@
         <h1 class="text-2xl font-bold">
             Our Products
         </h1>
-        <div class="w-full grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+        <div data-aos="zoom-in" data-aos-duration="800" class="w-full grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             <OurProductCard />
             <OurProductCard />
             <OurProductCard />
