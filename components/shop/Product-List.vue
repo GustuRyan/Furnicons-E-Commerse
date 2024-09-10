@@ -1,6 +1,6 @@
 <template>
     <div class="p-8 md:p-16 lg:p-20 space-y-12">
-        <div class="w-full grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+        <div class="w-full grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8" data-aos="zoom-in" data-aos-duration="800" >
             <OurProductCard />
             <OurProductCard />
             <OurProductCard />
