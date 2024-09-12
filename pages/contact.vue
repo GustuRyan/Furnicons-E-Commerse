@@ -11,7 +11,7 @@
             </HeroImage>
         </section>
         <section>
-            
+            <ContactHeader />
         </section>
     </Main>
 </template>
