@@ -10,8 +10,11 @@
                 </template>
             </HeroImage>
         </section>
-        <section>
+        <section class="px-8 md:px-16 lg:px-20">
             <ContactHeader />
+        </section>
+        <section class="flex justify-center px-8 md:px-16 lg:px-20">
+            <ContactContent />
         </section>
     </Main>
 </template>
