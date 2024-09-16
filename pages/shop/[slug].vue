@@ -1,7 +1,7 @@
 <template>
     <Main>
         <section class="mt-24">
-            
+            <DetailProductHero />
         </section>
         <section>
             
