@@ -4,7 +4,7 @@
             <DetailProductHero />
         </section>
         <section>
-            
+            <DetailProductContent />
         </section>
     </Main>
 </template>
