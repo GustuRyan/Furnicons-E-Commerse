@@ -6,6 +6,9 @@
         <section>
             <DetailProductContent />
         </section>
+        <section>
+            <DetailProductRelated />
+        </section>
     </Main>
 </template>
 
