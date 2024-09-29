@@ -14,6 +14,27 @@
                 Asgard Sofa
             </h3>
         </div>
+        <div class="flex justify-between py-10 px-8 md:px-16 lg:px-20">
+            <div class="flex gap-8">
+                <div class="space-y-8">
+                    <img src="" alt="" class="">
+                </div>
+                <img src="" alt="" class="">
+            </div>
+            <div class="space-y-4">
+                <div>
+                    <h1 class="font-semibold text-4xl">
+                        Asgaard sofa
+                    </h1>
+                    <h2>
+                        Rp. 7.500.000
+                    </h2>
+                </div>
+                <div>
+                    
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 
