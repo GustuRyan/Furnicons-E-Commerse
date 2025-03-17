@@ -5,7 +5,7 @@
                 Share your setup with
             </span>
             <h1 class="text-3xl font-bold">
-                #FurniconsFurniture
+                #FurniconsForFurniture
             </h1>
         </div>
         <section class="w-full overflow-x-scroll scrollbar-hide">
