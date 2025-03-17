@@ -15,7 +15,7 @@
                 Shop
             </NuxtLink>
             <NuxtLink :to="'/about'" class="hover:text-slate-600" active-class="text-primary">
-                About
+                About Us
             </NuxtLink>
             <NuxtLink :to="'/contact'" class="hover:text-slate-600" active-class="text-primary">
                 Contact
@@ -52,7 +52,7 @@
                     Shop
                 </NuxtLink>
                 <NuxtLink :to="'/about'" class="hover:text-slate-600" active-class="text-primary">
-                    About
+                    About Us
                 </NuxtLink>
                 <NuxtLink :to="'/contact'" class="hover:text-slate-600" active-class="text-primary">
                     Contact
