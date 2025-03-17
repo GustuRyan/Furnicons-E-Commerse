@@ -15,7 +15,7 @@
                         </p>
                     </div>
                     <button class="group flex justify-center hover:justify-between items-center px-8 py-6 bg-primary w-52 font-bold text-white transition-all ease-in-out delay-300 hover:w-full hover:text-xl hover:opacity-90">
-                        BUY NOW
+                        BUY NOW!
                         <div class="hidden group-hover:block">
                             <ArrowRightIcon class="size-9"/>
                         </div>
