@@ -6,7 +6,7 @@
                     Furnicons.
                 </h2>
                 <p class="max-w-[264px] text-[#9F9F9F]">
-                    400 University Drive Suite 200 Coral Gables,
+                    X400 University Drive Suite 200 Coral Gables,
                     FL 33134 USA
                 </p>
             </div>
