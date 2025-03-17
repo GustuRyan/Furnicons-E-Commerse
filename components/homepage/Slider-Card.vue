@@ -5,7 +5,7 @@
             <div class="w-full h-full flex flex-col justify-center p-3 lg:p-6 z-10 bg-white/75">
                 <p class="text-[#616161] font-bold z-10 flex items-center gap-2">
                     <span>
-                        01
+                        001
                     </span>
                 <div class="w-8 h-[2px] bg-[#616161]"></div>
                 <span>
