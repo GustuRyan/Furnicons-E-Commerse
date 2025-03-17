@@ -10,7 +10,7 @@
             </p>
             <div class="max-w-72 mt-6">
                 <ButtonPrimary :color="'btn-go'">
-                    Explore More
+                    Explore More!
                 </ButtonPrimary>
             </div>
         </div>
