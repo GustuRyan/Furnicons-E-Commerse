@@ -11,5 +11,13 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['nuxt-aos'],
+  modules: ['nuxt-aos', '@nuxtjs/google-fonts'],
+
+  googleFonts: {
+    download: true,
+    inject: true,
+    families: {
+      Poppins: [300, 400, 500, 600, 700],
+    },
+  },
 })
