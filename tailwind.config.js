@@ -12,7 +12,7 @@ export default {
     extend: {
       fontFamily: {
         'montserrat': ['Montserrat', 'sans-serif'],
-        'poppins': ['Poppins', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
         sans: ['Poppins', 'sans-serif'],
         display: ['Poppins', 'sans-serif'],
         body: ['Poppins', 'sans-serif'],
