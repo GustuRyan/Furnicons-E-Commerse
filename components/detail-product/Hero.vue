@@ -15,13 +15,16 @@
             </h3>
         </div>
         <div class="flex justify-between py-10 px-8 md:px-16 lg:px-20">
-            <div class="flex gap-8">
-                <div class="space-y-8">
-                    <img src="" alt="" class="">
+            <div class="w-[48%] flex justify-between">
+                <div class="w-[28%] space-y-8">
+                    <img src="/public/gallery-5.png" alt="" class="w-full h-32 object-cover rounded-md">
+                    <img src="/public/gallery-5.png" alt="" class="w-full h-32 object-cover rounded-md">
+                    <img src="/public/gallery-5.png" alt="" class="w-full h-32 object-cover rounded-md">
+                    <img src="/public/gallery-5.png" alt="" class="w-full h-32 object-cover rounded-md">
                 </div>
-                <img src="" alt="" class="">
+                <img src="/public/gallery-5.png" alt="" class="w-[68%] rounded-lg object-cover">
             </div>
-            <div class="space-y-4">
+            <div class="w-[50%] space-y-4">
                 <div>
                     <h1 class="font-semibold text-4xl">
                         Asgaard sofa
