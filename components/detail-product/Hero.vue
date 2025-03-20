@@ -15,7 +15,7 @@
             </h3>
         </div>
         <div class="flex justify-between py-10 px-8 md:px-16 lg:px-20">
-            <div class="w-[48%] flex justify-between">
+            <div class="w-[44%] flex justify-between">
                 <div class="w-[28%] space-y-8">
                     <img src="/public/gallery-5.png" alt="" class="w-full h-32 object-cover rounded-md">
                     <img src="/public/gallery-5.png" alt="" class="w-full h-32 object-cover rounded-md">
