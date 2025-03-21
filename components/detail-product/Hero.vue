@@ -27,7 +27,7 @@
             <div class="w-[50%] space-y-4">
                 <div>
                     <h1 class="text-5xl mb-3 font-poppins">
-                        Asgaard sofa
+                        Asgard sofa
                     </h1>
                     <h2 class="text-[#9F9F9F] text-2xl">
                         Rp. 7.500.000
