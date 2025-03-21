@@ -2,7 +2,7 @@
     <div class="h-full w-full flex flex-col gap-12 px-8 md:px-16 lg:px-20 py-14">
         <div class="flex flex-col text-center gap-2">
             <h1 class="font-bold text-2xl">
-                Browse The Range
+                Browse The Range Here!
             </h1>
             <p class="text-lg">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
