@@ -33,7 +33,7 @@
                         Rp. 7.500.000
                     </h2>
                 </div>
-                <div>
+                <div class="flex">
                     
                 </div>
             </div>
