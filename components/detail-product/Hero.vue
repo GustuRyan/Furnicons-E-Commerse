@@ -34,7 +34,10 @@
                     </h2>
                 </div>
                 <div class="flex">
-                    
+                    <div class="relative flex items-center h-12 w-36">
+                        <img class="absolute w-full h-12" src="/public/ratings.svg" alt="">
+                        <div class="w-[143px] h-6 bg-[#FFC700]"></div>
+                    </div>
                 </div>
             </div>
         </div>
