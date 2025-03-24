@@ -33,11 +33,15 @@
                         Rp. 7.500.000
                     </h2>
                 </div>
-                <div class="flex">
+                <div class="flex items-center gap-8">
                     <div class="relative flex items-center h-12 w-36">
                         <img class="absolute w-full h-12" src="/public/ratings.svg" alt="">
-                        <div class="w-[143px] h-6 bg-[#FFC700]"></div>
+                        <div class="w-[54px] h-6 bg-[#FFC700]"></div>
                     </div>
+                    <div class="w-[1px] h-12 bg-slate-600"></div>
+                    <p class="text-slate-600">
+                        5 Customer Review
+                    </p>
                 </div>
             </div>
         </div>
