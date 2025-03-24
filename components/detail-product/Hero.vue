@@ -33,7 +33,7 @@
                         Rp. 7.500.000
                     </h2>
                 </div>
-                <div class="flex items-center gap-8">
+                <div class="flex items-center gap-6">
                     <div class="relative flex items-center h-12 w-36">
                         <img class="absolute w-full h-12" src="/public/ratings.svg" alt="">
                         <div class="w-[54px] h-6 bg-[#FFC700]"></div>
@@ -43,6 +43,9 @@
                         5 Customer Review
                     </p>
                 </div>
+                <p>
+                    Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.
+                </p>
             </div>
         </div>
     </div>
