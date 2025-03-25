@@ -66,6 +66,13 @@
                         <div class="w-8 h-8 rounded-full bg-[#B88E2F]"></div>
                     </div>
                 </div>
+                <div class="flex gap-4">
+                    <div class="flex p-2 gap-4 rounded-md border border-black">
+                        <button>-</button>
+                        <input class="max-w-7 text-center" value="1"/>
+                        <button>+</button>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
