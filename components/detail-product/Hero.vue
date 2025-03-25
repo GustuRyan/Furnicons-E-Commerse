@@ -47,7 +47,7 @@
                     Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.
                 </p>
                 <div class="space-y-4">
-                    <span>
+                    <span class="text-[#9F9F9F]">
                         Size
                     </span>
                     <div class="flex gap-4">
