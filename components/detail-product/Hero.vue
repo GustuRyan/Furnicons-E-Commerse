@@ -56,6 +56,16 @@
                         <div class="w-8 h-8 rounded-md bg-[#F9F1E7] flex justify-center items-center">XS</div>
                     </div>
                 </div>
+                <div class="space-y-4">
+                    <span class="text-[#9F9F9F]">
+                        Color
+                    </span>
+                    <div class="flex gap-4">
+                        <div class="w-8 h-8 rounded-full bg-purple-500"></div>
+                        <div class="w-8 h-8 rounded-full bg-black"></div>
+                        <div class="w-8 h-8 rounded-full bg-[#B88E2F]"></div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
