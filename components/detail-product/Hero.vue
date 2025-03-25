@@ -36,7 +36,7 @@
                 <div class="flex items-center gap-6">
                     <div class="relative flex items-center h-12 w-36">
                         <img class="absolute w-full h-12" src="/public/ratings.svg" alt="">
-                        <div class="w-[54px] h-6 bg-[#FFC700]"></div>
+                        <div class="w-[124px] h-6 bg-[#FFC700]"></div>
                     </div>
                     <div class="w-[1px] h-12 bg-slate-600"></div>
                     <p class="text-slate-600">
@@ -46,6 +46,16 @@
                 <p>
                     Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.
                 </p>
+                <div class="space-y-4">
+                    <span>
+                        Size
+                    </span>
+                    <div class="flex gap-4">
+                        <div class="w-8 h-8 rounded-md bg-[#B88E2F] text-white flex justify-center items-center">L</div>
+                        <div class="w-8 h-8 rounded-md bg-[#F9F1E7] flex justify-center items-center">XL</div>
+                        <div class="w-8 h-8 rounded-md bg-[#F9F1E7] flex justify-center items-center">XS</div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
