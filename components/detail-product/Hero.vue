@@ -72,6 +72,12 @@
                         <input class="max-w-7 text-center" value="1"/>
                         <button>+</button>
                     </div>
+                    <div class="flex p-2 gap-4 rounded-md border border-black">
+                        Add To Cart
+                    </div>
+                    <div class="flex p-2 gap-4 rounded-md border border-black">
+                        + Compare
+                    </div>
                 </div>
             </div>
         </div>
