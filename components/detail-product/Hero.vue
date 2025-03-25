@@ -66,7 +66,7 @@
                         <div class="w-8 h-8 rounded-full bg-[#B88E2F]"></div>
                     </div>
                 </div>
-                <div class="flex gap-4">
+                <div class="flex gap-4 pb-4">
                     <div class="flex p-2 gap-4 rounded-md border border-black">
                         <button>-</button>
                         <input class="max-w-7 text-center" value="1"/>
@@ -79,6 +79,8 @@
                         + Compare
                     </div>
                 </div>
+                <div class="w-full h-[1px] bg-slate-200"></div>
+                
             </div>
         </div>
     </div>
@@ -86,6 +88,5 @@
 
 <script setup lang="ts">
 import { ChevronRightIcon } from '@heroicons/vue/24/outline';
-
 
 </script>
