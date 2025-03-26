@@ -3,7 +3,7 @@
         <section class="mt-24">
             <HeroImage>
                 <template #header>
-                    Checkout
+                    Checkout Now
                 </template>
                 <template #detail>
                     Checkout
