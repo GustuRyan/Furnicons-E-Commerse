@@ -3,7 +3,7 @@
         <section class="mt-24">
             <HeroImage>
                 <template #header>
-                    Our Blog 
+                    This is Our Blog 
                 </template>
                 <template #detail>
                     Blog
