@@ -8,7 +8,7 @@
                         Address
                     </h3>
                     <p>
-                        236 5th SE Avenue, New York NY10000, United States
+                        236 5th SE Avenue Gas, New York NY10000, United States
                     </p>
                 </div>
             </div>
