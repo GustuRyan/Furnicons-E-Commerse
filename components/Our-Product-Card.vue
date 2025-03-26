@@ -16,7 +16,7 @@
                 </span>
                 <div class="flex justify-between items-center">
                     <span class="text-xl font-bold">
-                        Rp 2.500.000
+                        Rp 2.750.000
                     </span>
                     <span class="text-sm text-[#898989] line-through">
                         Rp 3.500.000
