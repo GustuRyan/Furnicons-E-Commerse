@@ -3,7 +3,7 @@
         <section class="mt-24">
             <HeroImage>
                 <template #header>
-                    About Furnicons E Commerce 
+                    About Furnicons Furniture E Commerce 
                 </template>
                 <template #detail>
                     About
