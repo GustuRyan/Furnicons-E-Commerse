@@ -3,7 +3,7 @@
         <div class="flex flex-col gap-12 lg:gap-10 lg:flex-row justify-between mb-4">
             <div class="flex flex-col gap-8 md:gap-16">
                 <h2 class="font-bold text-xl">
-                    Furnicons.
+                    Furnicons Furniture.
                 </h2>
                 <p class="max-w-[264px] text-[#9F9F9F]">
                     X400 University Drive Suite 200 Coral Gables,
