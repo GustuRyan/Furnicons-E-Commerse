@@ -2,7 +2,7 @@
     <div class="w-full h-full flex flex-col gap-12 py-16">
         <div class="w-full h-full text-center">
             <span class="text-lg text-[#616161]">
-                Share your setup with us
+                Share your set up with us
             </span>
             <h1 class="text-3xl font-bold">
                 #FurniconsFurniture
