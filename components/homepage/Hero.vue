@@ -8,7 +8,7 @@
                             New Arrival
                         </h4>
                         <h1 class="max-w-sm text-5xl md:text-[52px] font-bold text-primary md:leading-[64px]">
-                            Discover Our New Collection
+                            Discover Our New Collections
                         </h1>
                         <p class="text-lg max-w-lg font-semibold">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.
