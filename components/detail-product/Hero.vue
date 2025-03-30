@@ -93,6 +93,14 @@
                         <p>:</p>
                         <p>:</p>
                     </div>
+                    <div class="space-y-2">
+                        <p>SS001</p>
+                        <p>Sofas</p>
+                        <p>Sofa, Chair, Home, Shop</p>
+                        <div class="flex gap-3">
+                            
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
