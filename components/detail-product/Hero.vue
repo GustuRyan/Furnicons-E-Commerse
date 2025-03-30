@@ -87,6 +87,12 @@
                         <p>Tags</p>
                         <p>Share</p>
                     </div>
+                    <div class="space-y-2">
+                        <p>:</p>
+                        <p>:</p>
+                        <p>:</p>
+                        <p>:</p>
+                    </div>
                 </div>
             </div>
         </div>
