@@ -80,7 +80,14 @@
                     </div>
                 </div>
                 <div class="w-full h-[1px] bg-slate-200"></div>
-                
+                <div class="flex gap-3 text-[#9F9F9F]">
+                    <div class="space-y-2 min-w-20">
+                        <p>SKU</p>
+                        <p>Category</p>
+                        <p>Tags</p>
+                        <p>Share</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
