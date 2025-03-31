@@ -98,9 +98,9 @@
                         <p>Sofas</p>
                         <p>Sofa, Chair, Home, Shop</p>
                         <div class="flex gap-3">
-                            <img src="" alt="" class="w-2 h-2">
-                            <img src="" alt="" class="w-2 h-2">
-                            <img src="" alt="" class="w-2 h-2">
+                            <img src="/public/facebook_logo.svg" alt="" class="w-2 h-2">
+                            <img src="/public/linkedin_logo.svg" alt="" class="w-2 h-2">
+                            <img src="/public/X_logo.svg" alt="" class="w-2 h-2">
                         </div>
                     </div>
                 </div>
